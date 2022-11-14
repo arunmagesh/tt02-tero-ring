@@ -15,7 +15,7 @@ project:
 # This info will be automatically collected and used to make a datasheet for the chip.
 documentation: 
   author:       "Arun Magesh"      # Your name
-  discord:      ""      # Your discord handle
+  discord:      "@arunmagesh"      # Your discord handle
   title:        "TERO ring oscillator"      # Project title
   description:  "TERO and inverter based ring oscillator"      # Short description of what your project does
   how_it_works: " It is a multistage ring oscillator"      # Longer description of how the project works
